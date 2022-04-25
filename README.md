@@ -1,6 +1,6 @@
 # Zadanie
 
-Twoim zadaniem jest przygotowanie zestawu klas, który pozwoli na modelowania ułamków.
+Twoim zadaniem jest przygotowanie zestawu klas, odwzwierciedlających zachowanie ułamków.
 Mechanizm ma pozwolić na:
 * skracanie ułamków
 * dodawanie ułamków
